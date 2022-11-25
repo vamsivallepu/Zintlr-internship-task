@@ -1,0 +1,202 @@
+[
+  {
+    "rank": "1",
+    "name": "Berkshire Hathaway",
+    "industry": "Diversified Financials",
+    "founded": "1939",
+    "headquarters": "Omaha, Nebraska",
+    "country": "United States",
+    "ceo": "Warren Edward Buffett",
+    "employees": "372,000"
+  },
+  {
+    "rank": "2",
+    "name": "ICBC",
+    "industry": "Banking",
+    "founded": "1984",
+    "headquarters": "Beijing",
+    "country": "China",
+    "ceo": "Shu Gu",
+    "employees": "434,089"
+  },
+  {
+    "rank": "3",
+    "name": "Saudi Arabian Oil Company (Saudi Aramco)",
+    "industry": "Oil & Gas Operations",
+    "founded": "1933",
+    "headquarters": "Dhahran",
+    "country": "Saudi Arabia",
+    "ceo": "Amin bin Hasan Al-Nasser",
+    "employees": "68,493"
+  },
+  {
+    "rank": "4",
+    "name": "JPMorgan Chase",
+    "industry": "Banking and Financial Services",
+    "founded": "2000",
+    "headquarters": "New York, New York",
+    "country": "United States",
+    "ceo": "Jamie Dimon",
+    "employees": "270,000"
+  },
+  {
+    "rank": "5",
+    "name": "China Construction Bank",
+    "industry": "Banking",
+    "founded": "2014",
+    "headquarters": "Beijing",
+    "country": "China",
+    "ceo": "Wang Zuji",
+    "employees": "349,671"
+  },
+  {
+    "rank": "6",
+    "name": "Amazon",
+    "industry": "Retail and Wholesale",
+    "founded": "1994",
+    "headquarters": "Seattle, Washington",
+    "country": "United States",
+    "ceo": "Andy Jassy",
+    "employees": "1,608,000"
+  },
+  {
+    "rank": "7",
+    "name": "Apple",
+    "industry": "Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",
+    "founded": "1976",
+    "headquarters": "Cupertino, California",
+    "country": "United States",
+    "ceo": "Tim Cook",
+    "employees": "154,000"
+  },
+  {
+    "rank": "8",
+    "name": "Agricultural Bank of China",
+    "industry": "Banking",
+    "founded": "1979",
+    "headquarters": "Beijing",
+    "country": "China",
+    "ceo": "Gu Shu",
+    "employees": "455,174"
+  },
+  {
+    "rank": "9",
+    "name": "Bank of America",
+    "industry": "Banking and Financial Services",
+    "founded": "1904",
+    "headquarters": "Charlotte, North Carolina",
+    "country": "United States",
+    "ceo": "Brian Moynihan",
+    "employees": "166,400"
+  },
+  {
+    "rank": "10",
+    "name": "Toyota Motor",
+    "industry": "Consumer Durables",
+    "founded": "1937",
+    "headquarters": "Toyota",
+    "country": "Japan",
+    "ceo": "Akio Toyoda",
+    "employees": "366,283"
+  },
+  {
+    "rank": "11",
+    "name": "Alphabet",
+    "industry": "IT, Internet, Software & Services",
+    "founded": "1998",
+    "headquarters": "Mountain View, California",
+    "country": "United States",
+    "ceo": "Sundar Pichai",
+    "employees": "156,500"
+  },
+  {
+    "rank": "12",
+    "name": "Microsoft",
+    "industry": "IT, Internet, Software & Services",
+    "founded": "1975",
+    "headquarters": "Redmond, Washington",
+    "country": "United States",
+    "ceo": "Satya Nadella",
+    "employees": "103,000"
+  },
+  {
+    "rank": "13",
+    "name": "Bank of China",
+    "industry": "Banking",
+    "founded": "1929",
+    "headquarters": "Beijing",
+    "country": "China",
+    "ceo": "Wang Jiang",
+    "employees": "306,322"
+  },
+  {
+    "rank": "14",
+    "name": "Samsung Group",
+    "industry": "Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment",
+    "founded": "1969",
+    "headquarters": "Suwon",
+    "country": "South Korea",
+    "ceo": "Jay Y. Lee",
+    "employees": "266,673"
+  },
+  {
+    "rank": "15",
+    "name": "ExxonMobil",
+    "industry": "Oil & Gas Operations",
+    "founded": "1999",
+    "headquarters": "Irving, Texas",
+    "country": "United States",
+    "ceo": "Darren W. Woods",
+    "employees": "63,000"
+  },
+  {
+    "rank": "16",
+    "name": "Shell",
+    "industry": "Construction, Oil & Gas Operations, Mining and Chemicals",
+    "founded": "1907",
+    "headquarters": "London",
+    "country": "United Kingdom",
+    "ceo": "Bernardus van Beurden",
+    "employees": "82,000"
+  },
+  {
+    "rank": "17",
+    "name": "Ping An Insurance Group",
+    "industry": "Insurance",
+    "founded": "1988",
+    "headquarters": "Shenzhen",
+    "country": "China",
+    "ceo": "Yonglin Xie Sin Yin Tan",
+    "employees": "355,982"
+  },
+  {
+    "rank": "18",
+    "name": "Wells Fargo",
+    "industry": "Banking",
+    "founded": "1852",
+    "headquarters": "San Francisco, California",
+    "country": "United States",
+    "ceo": "Charles William Scharf",
+    "employees": "247,848"
+  },
+  {
+    "rank": "19",
+    "name": "Verizon Communications",
+    "industry": "Telecommunications Services, Cable Supplier",
+    "founded": "1983",
+    "headquarters": "New York, New York",
+    "country": "United States",
+    "ceo": "Hans Vestberg",
+    "employees": "118,400"
+  },
+  {
+    "rank": "20",
+    "name": "AT&T",
+    "industry": "Telecommunications Services",
+    "founded": "1876",
+    "headquarters": "Dallas, Texas",
+    "country": "United States",
+    "ceo": "John Stankey",
+    "employees": "203,000"
+  }
+]
